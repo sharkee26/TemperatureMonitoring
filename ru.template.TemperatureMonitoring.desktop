@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.TemperatureMonitoring
+Exec=/usr/bin/ru.template.TemperatureMonitoring
+Name=TemperatureMonitoring
+Name[ru]=Мониторинг температуры
+
+[X-Application]
+Permissions=Internet
+OrganizationName=ru.template
+ApplicationName=TemperatureMonitoring
+ExecDBus=/usr/bin/ru.template.TemperatureMonitoring
